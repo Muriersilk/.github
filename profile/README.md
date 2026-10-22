@@ -1,38 +1,38 @@
 <p align="center">
   <a href="https://muriersilk.com/">
-    <img src="https://raw.githubusercontent.com/Muriersilk/.github/main/assets/banner.png" alt="Muriersilk — Let the day soften. Silk, sleep, and everyday rituals." width="100%">
+    <img src="https://raw.githubusercontent.com/Muriersilk/.github/main/assets/banner.png" alt="Muriersilk 品牌横幅：真丝、睡眠与日常仪式" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://muriersilk.com/"><strong>Explore Muriersilk</strong></a> &nbsp; · &nbsp;
-  <a href="https://muriersilk.com/about">Our approach</a> &nbsp; · &nbsp;
-  <a href="https://muriersilk.com/guides/silk-care">Silk care</a> &nbsp; · &nbsp;
-  <a href="https://muriersilk.com/blog">Journal</a>
+  <a href="https://muriersilk.com/"><strong>探索 Muriersilk</strong></a> &nbsp; · &nbsp;
+  <a href="https://muriersilk.com/about">了解品牌</a> &nbsp; · &nbsp;
+  <a href="https://muriersilk.com/guides/silk-care">真丝护理</a> &nbsp; · &nbsp;
+  <a href="https://muriersilk.com/blog">品牌日志</a>
 </p>
 
-### Small rituals. A softer everyday.
+### 让日常多一点柔软
 
-Muriersilk creates silk sleep essentials and accessories for the moments when you slow down: getting ready for bed, taking a quiet pause, or adding a finishing touch before heading out.
+Muriersilk 提供真丝睡眠用品与日常配饰，陪伴睡前准备、片刻休息，以及出门前整理装扮的时光。
 
-Our collections bring together silk bonnets, eye masks, scrunchies, headbands, scarves, and other everyday accessories. We pay attention to the details that shape how each piece feels and fits into your routine — from fabric and construction to fit and care.
+我们的系列涵盖真丝睡帽、眼罩、发圈、发带、丝巾及其他日常配饰。从面料与制作，到佩戴感受和日常护理，我们关注每件产品融入生活的细节。
 
-### Find your ritual
+### 找到适合你的日常仪式
 
-| For your routine | Explore |
+| 日常场景 | 探索产品 |
 | --- | --- |
-| **Wind down** | [Silk bonnets](https://muriersilk.com/categories/silk-bonnet) for your evening hair routine. |
-| **Take a pause** | [Silk eye masks](https://muriersilk.com/categories/silk-eye-mask) for a little personal quiet. |
-| **Make it everyday** | [Visit the collection](https://muriersilk.com/) to explore silk accessories for hair and personal style. |
+| **睡前放松** | 了解 [真丝睡帽](https://muriersilk.com/categories/silk-bonnet)，搭配晚间头发护理。 |
+| **片刻休息** | 了解 [真丝眼罩](https://muriersilk.com/categories/silk-eye-mask)，留一点自己的安静时光。 |
+| **日常搭配** | [浏览产品系列](https://muriersilk.com/)，探索适合发型与个人风格的真丝配饰。 |
 
-### Get to know your silk
+### 了解与护理真丝
 
-Choosing a piece is only the beginning. Our guides help you understand the fabric and care for it over time.
+选好一件产品只是开始。我们的指南帮助你了解面料，并做好日常护理。
 
-- [**Our fabric of choice**](https://muriersilk.com/about) — our approach to fibre, weave, weight, fit, and care.
-- [**Silk care guide**](https://muriersilk.com/guides/silk-care) — practical guidance for washing, drying, and storing your pieces. Always follow the individual care label.
-- [**The journal**](https://muriersilk.com/blog) — more on silk and everyday routines.
+- [**了解我们的面料**](https://muriersilk.com/about)：认识纤维、织法、克重、佩戴与护理。
+- [**真丝护理指南**](https://muriersilk.com/guides/silk-care)：查看清洗、晾干和收纳建议，具体操作请遵循每件产品的护理标签。
+- [**品牌日志**](https://muriersilk.com/blog)：阅读更多真丝与日常生活内容。
 
 ---
 
-This organization is home to Muriersilk’s public projects and brand resources. For shopping, product details, and customer support, visit [**muriersilk.com**](https://muriersilk.com/).
+这里是 Muriersilk 的公开项目与品牌资料展示空间。购物、商品详情与客户支持，请访问 [**Muriersilk 官方网站**](https://muriersilk.com/)。
