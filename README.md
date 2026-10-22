@@ -1,26 +1,46 @@
-# Muriersilk · GitHub profile
+# Muriersilk 公开品牌主页
 
-The public profile repository for [Muriersilk](https://github.com/Muriersilk). GitHub displays `profile/README.md` on the organization’s Overview page.
+> **这是公开仓库，任何人都能查看。运营人员修改前请确认内容和影响范围，不要上传内部资料。**
 
-## Contents
+这里保存 Muriersilk 在 GitHub 上展示的品牌介绍、官网链接和视觉素材。`profile/README.md` 会直接显示在 [品牌组织首页](https://github.com/Muriersilk)。
 
-| Path | Purpose |
+## 运营人员可以做什么
+
+- 查看品牌介绍、官网链接和标志素材。
+- 整理已确认的品牌文案或链接修改需求，交由维护人员更新。
+- 如已明确分工由你维护公开文案，可修改 `profile/README.md` 中对应的文字和官网链接；提交前核对事实，提交后检查品牌首页。
+
+**修改主分支上的主页文件后，公开展示会随之更新。请把它当作对外发布内容审阅。**
+
+## 哪些内容不要随意改
+
+- 不要重命名或删除 `.github` 仓库、`profile` 目录及其中的 `README.md`，这些名称用于组织主页展示。
+- 不要随意删除、重命名或移动 `assets` 中的图片，否则已有图片链接可能失效。
+- 不要修改仓库权限、公开状态或其他设置，也不要运行不熟悉的自动化任务。
+- 不要上传账号密码、密钥、内部运营方案、客户信息、订单记录或未公开资料。
+- 不要加入未经核实的材质、认证或功效承诺。
+
+需要更换标志、横幅或组织头像时，请将素材和需求交给负责品牌视觉或技术维护的人员。
+
+## 文件用途
+
+| 文件 | 用途 |
 | --- | --- |
-| `profile/README.md` | Public organization introduction and links to the official store and guides. |
-| `assets/wordmark.png` | Original Muriersilk wordmark, copied unchanged from the brand website project. |
-| `assets/emblem.png` | Original Muriersilk butterfly emblem, copied unchanged from the brand website project. |
-| `assets/avatar.svg` / `avatar.png` | Cream background and padded original emblem for the GitHub avatar. |
-| `assets/banner.svg` / `banner.png` | Profile banner with the original wordmark and brand colours. |
+| `profile/README.md` | 对外展示的品牌介绍，以及官网和指南链接 |
+| `assets/wordmark.png` | 从品牌网站项目保留的原始文字标志 |
+| `assets/emblem.png` | 原始蝴蝶图形标志 |
+| `assets/avatar.svg` / `avatar.png` | 奶油色背景、保留边距的组织头像 |
+| `assets/banner.svg` / `banner.png` | 使用原始文字标志和品牌配色的主页横幅 |
 
-## Update the profile
+## 维护人员操作说明
 
-1. Edit `profile/README.md` to change the public introduction. Keep product and guide links pointed at the official website.
-2. Keep factual statements consistent with [muriersilk.com](https://muriersilk.com/). Check individual product pages before adding material, certification, or performance claims.
-3. The profile uses absolute image URLs on the `main` branch so images also load on the organization Overview page. Keep those URLs current when renaming assets.
-4. The SVG files contain embedded copies of the original PNG logos. Export an updated SVG to a same-size PNG after editing it, then commit both files.
-5. Push changes to `main` and inspect [the organization profile](https://github.com/Muriersilk) to confirm the layout and links.
-6. To change the organization avatar, upload `assets/avatar.png` in **Organization Settings → General → Profile picture**. This setting is separate from the README.
+1. 更新 `profile/README.md` 时，商品和指南链接继续指向 [官方网站](https://muriersilk.com/)。
+2. 内容须与官网一致；新增材质、认证或性能表述前，先核对对应商品页。
+3. 主页图片使用 `main` 分支上的完整网址，便于在组织首页加载。修改素材名称或位置时须同步检查所有引用。
+4. SVG 内嵌原始 PNG 标志。修改 SVG 后，导出相同尺寸的 PNG，并一同提交。
+5. 提交到 `main` 后，检查 [品牌组织首页](https://github.com/Muriersilk) 的排版、图片和链接。
+6. 组织头像须另行在 **Organization Settings → General → Profile picture（组织设置 → 常规 → 头像）** 上传 `assets/avatar.png`；修改说明文件不会自动更换头像。
 
-## Brand assets
+## 品牌素材使用
 
-The Muriersilk name, logos, and brand artwork remain the property of their respective owner. This public repository does not grant a licence to reuse those brand assets. Contact Muriersilk through its official website for permission.
+Muriersilk 名称、标志和品牌图像的权利归各自权利人所有。仓库公开不代表授权他人使用这些素材。需要使用许可，请通过官方网站联系 Muriersilk。
